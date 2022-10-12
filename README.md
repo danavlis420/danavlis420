@@ -3,8 +3,6 @@
     <img width="350" src="https://c.tenor.com/vFdymJt-yOYAAAAM/nunu-league-of-legends.gif" alt="nunu">
 </p>
 <p align="center">┌─────── •✧• ──────┐</p>
-<p align="left">|</p>
-<p align="right">|</p>
 <p align="center" font-size="50">𝖊𝖑 𝖒𝖆𝖘 𝖕𝖎𝖔𝖑𝖆</p>
 <p align="center">└─────── •✧• ──────┘</p>
 <!---
