@@ -1,6 +1,6 @@
 <h1 align="center">,-*'^'~*-.,_,.-*~🌺𝓗𝓞𝓛𝓐🌺~*-.,_,.-*~'^'*-,</h1>
 <p align="center">
-    <img width="350" src="https://c.tenor.com/vFdymJt-yOYAAAAM/nunu-league-of-legends.gif" alt="nunu">
+    <img width="250" src="https://c.tenor.com/vFdymJt-yOYAAAAM/nunu-league-of-legends.gif" alt="nunu">
 </p>
 <p align="center">┌─────── •✧• ──────┐</p>
 <p align="center" font-size="50">𝖊𝖑 𝖒𝖆𝖘 𝖕𝖎𝖔𝖑𝖆</p>
